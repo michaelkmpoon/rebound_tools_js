@@ -1,5 +1,5 @@
 # rebound_tools_js
-Tools from the REBOUND N-body code translated to JavaScript
+Tools from the REBOUND N-body code (written in C) translated to JavaScript
 
 For Hanno Rein's planetary dynamics course (November 2021), here are REBOUND tools translated from C to JavaScript:
 
